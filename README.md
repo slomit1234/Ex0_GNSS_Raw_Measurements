@@ -14,13 +14,16 @@ Anaconda, Jupyter Notebook.
 
 # Requirements:
 Jupyter notebook
-Python Navpy
-Python Pandas
-Python Numpy
-Python unlzw3
-Python georinex
-Python simplekml
+
+1. Python Navpy
+2. Python Pandas
+3. Python Numpy
+4. Python unlzw3
+5. Python georinex
+6. Python simplekml
+
 Note: you can ensure all requirements on Jupyter Notebook terminal using this command:
+
 pip install pandas numpy navp unlzw3 georinex
 
 Example:
