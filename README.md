@@ -29,7 +29,8 @@ pip install pandas numpy navp unlzw3 georinex
 Example:
  ![image](https://github.com/slomit1234/Ex0_GNSS_Raw_Measurements/assets/42152443/c52f16cb-2e31-466f-81ee-28d5fc71a771)
 
-# GitHub repo:https://github.com/slomit1234/Ex0_GNSS_Raw_Measurements
+# GitHub repo:
+https://github.com/slomit1234/Ex0_GNSS_Raw_Measurements
 
 # AutoRun: 
 Extract my GitHub repo to your computer and do a quick test run just to see that everything is working properly.
@@ -38,15 +39,26 @@ Make sure:
 2.	All of the GNSS log data are in the same repository as the script (if you extracted all of the repo properly that this is a no-brainer).
 3.	Run the script “FinalScript.ipynb”
 4.	It will generate an output file for each log:
+   
 Driving (gnss_log_2024_04_13_19_53_33.txt):
+
  	gnss_log_2024_04_13_19_53_33.kml 
+  
  	gnss_log_2024_04_13_19_53_33.csv
+  
 Fixed (gnss_log_2024_04_13_19_51_17.txt):
+
  	gnss_log_2024_04_13_19_51_17.kml
+  
  	gnss_log_2024_04_13_19_51_17.csv
+  
 Walking(gnss_log_2024_04_13_19_52_00.txt):
+
  	gnss_log_2024_04_13_19_52_00.kml
+  
  	gnss_log_2024_04_13_19_52_00.csv
+
+  
 It should look like this:
 ![image](https://github.com/slomit1234/Ex0_GNSS_Raw_Measurements/assets/42152443/e99b465e-9020-4faf-9ba5-65fb07d4dd20)
  
